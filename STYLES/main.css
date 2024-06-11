@@ -1,0 +1,59 @@
+
+.navbar-brand {
+    width: 30%;
+}
+.navbar-brand img{
+    width:30%;
+}
+header{
+    background: rgb(8, 8, 8);
+}
+main{
+    background-color: black;
+    height: auto;
+}
+footer{
+    background: linear-gradient(to bottom right,  white , black);
+    align-items: center;
+}
+
+.badge{
+    display: flex;
+    font-size: 2rem;
+    justify-content: flex-end;
+}
+h1{
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+
+}
+#myCarousel{
+    height: 150px;
+    background-color: #940a4a;
+    border-radius: 15px;
+    border: 8px black solid;
+}
+.form-check{
+    color: aliceblue;
+}
+#tarjetas{
+    display: flex;
+   margin: 1em auto;
+    justify-content: center;
+}
+.formulario{
+    height: 80%;
+    border-radius: 10PX;
+    border: 8px #940a4a solid;
+    
+}
+.tablas{
+    height: 200px;
+    margin-top: 30px;
+
+}
+.table{
+    height: 80%;
+    
+}
