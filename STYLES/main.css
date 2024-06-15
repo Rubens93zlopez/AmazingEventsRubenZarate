@@ -1,59 +1,91 @@
-
 .navbar-brand {
     width: 30%;
 }
-.navbar-brand img{
-    width:30%;
+
+.navbar-brand img {
+    width: 30%;
 }
-header{
+
+header {
     background: rgb(8, 8, 8);
 }
-main{
+
+main {
     background-color: black;
     height: auto;
 }
-footer{
-    background: linear-gradient(to bottom right,  white , black);
+
+footer {
+    background: linear-gradient(to bottom right, white, black);
     align-items: center;
 }
 
-.badge{
+.badge {
     display: flex;
     font-size: 2rem;
     justify-content: flex-end;
 }
-h1{
+
+h1 {
     display: flex;
     color: aliceblue;
     justify-content: center;
 
 }
-#myCarousel{
+
+#myCarousel {
     height: 150px;
     background-color: #940a4a;
     border-radius: 15px;
     border: 8px black solid;
 }
-.form-check{
+
+.form-check {
     color: aliceblue;
 }
-#tarjetas{
+
+#tarjetas {
     display: flex;
-   margin: 1em auto;
+    margin: 1em auto;
     justify-content: center;
 }
-.formulario{
+
+.formulario {
     height: 80%;
     border-radius: 10PX;
     border: 8px #940a4a solid;
-    
+
 }
-.tablas{
+
+.tablas {
     height: 200px;
     margin-top: 30px;
 
 }
-.table{
+
+.table {
     height: 80%;
-    
+}
+
+.table td {
+    width: 30%;
+    height: 30%;
+}
+
+thead {
+    font-size: 1.5rem;
+}
+
+.tarjetas {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+.tarjetas img {
+    border-radius: 20px;
+    width: 80%;
+    height: 80%;
+    margin-top: 50px;
 }
